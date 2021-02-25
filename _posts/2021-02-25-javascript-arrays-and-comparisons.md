@@ -4,9 +4,9 @@ Title: "Js "
 Date: "2021-02-25"
 ---
 
-#
+# 
 
-#### learning arrays
+#### Arrays
 
 Arrays can be nested with one another. Always start an array declaration with an opening square bracket, end it with a closing square bracket and put a comma between each entry. You can also nest arrays within other arrays, example:[["food", 60], ["drinks", 15]]
 
@@ -36,10 +36,17 @@ Conditional statements are used to decide the flow of execution based on differe
  Triple equals(===) is a strict equality comparison operator in JavaScript, which returns false for the values which are not of a similar type. This operator performs type casting for equality.
 
 ==	Equal to: true if the operands are equal
+
 !=	Not equal to: true if the operands are not equal	
+
 ===	Strict equal to: true if the operands are equal and of the same type
+
 !==	Strict not equal to: true if the operands are equal but of different type or not equal at all	
+
 >	Greater than: true if the left operand is greater than the right operand	
+
 >=	Greater than or equal to: true if the left operand is greater than or equal to the right operand
+
 <	Less than: true if the left operand is less than the right operand	
+
 <=	Less than or equal to: true if the left operand is less than or equal to the right operand
