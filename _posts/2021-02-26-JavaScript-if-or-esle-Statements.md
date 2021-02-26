@@ -32,9 +32,14 @@ Golf code has par and strokes.Golf code return the correct string accordingly to
 
 ### Buiding object in javaScript
 
-Object uses indexex to access and modify data. You access data through what we call properties.
+Object uses indexex to access and modify data. You access data through what we call properties. In a JS object, all property keys are strings.
+Dot notation only lets you access the explicit key name of a property.
 
 ### Ways of accessing properties
 
 1. Dot notation 
 2. Bracket notation
+
+## Delete Properties from a JavaScript Object
+
+If the property which you are trying to delete does not exist, delete will not have any effect and will return true. Any property declared with let or const cannot be deleted from the scope within which they were defined. When a property is marked as non-configurable, delete won't have any effect, and will return false.
