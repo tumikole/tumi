@@ -4,7 +4,9 @@ Title: "JavaScript if or esle Statements"
 Date: "2021-02-26"
 ---
 
-# The if/else statement
+# I have learned that JavaScript has only three primitive data types which are String, Number, and Boolean. Everything else (if it’s not null or undefined) can have properties added to it. When you set a variable’s value, and you haven’t declared it to be a variable for the current function scope via the var keyword, JavaScript assumes you mean this.propertyName.
+
+## The if/else statement
 
 The if statement enables your program to selectively execute other statements, based on some criteria.
 
