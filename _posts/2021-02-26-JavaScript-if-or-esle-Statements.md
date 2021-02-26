@@ -32,7 +32,7 @@ Golf code has par and strokes.Golf code return the correct string accordingly to
 
 Object uses indexex to access and modify data. You access data through what we call properties.
 
-#### Ways of accessing properties
+## Ways of accessing properties
 
 1. Dot notation 
 2. Bracket notation
