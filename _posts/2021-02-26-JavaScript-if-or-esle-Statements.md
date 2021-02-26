@@ -1,7 +1,7 @@
 ---
 Layout:
-Title: "Js "
-Date: "2021-02-24"
+Title: "JavaScript if or esle Statements"
+Date: "2021-02-26"
 ---
 
 # The if/else statement
@@ -28,4 +28,11 @@ Switch statement can have a number of possible execution paths. Statements are e
 
 Golf code has par and strokes.Golf code return the correct string accordingly to the table which lists the strokes in order of priority, from top to bottom.
 
-##
+## Buiding object in javaScript
+
+Object uses indexex to access and modify data. You access data through what we call properties.
+
+#### Ways of accessing properties
+
+1. Dot notation 
+2. Bracket notation
