@@ -10,4 +10,5 @@ Commenting out html we use smaller than sign,!,-- then end a comment with -- and
 
 ### Adding links images
 
-The <a> element with its href attribute creates a hyperlink to web pages, files, email addresses, locations in the same page.
+The anchor element with its href attribute creates a hyperlink to web pages, files, email addresses, locations in the same page.
+Content within each anchor should indicate the link's destination.
