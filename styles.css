@@ -6,7 +6,7 @@
   .topnav a {
     float: center;
     display: block;
-    color: rgb(255, 0, 21);
+    color: rgb(58, 48, 49);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -20,7 +20,7 @@
 
  
   h1 {
-    color: red;
+    color: rgb(54, 48, 48);
     text-align: center;
   }
 
