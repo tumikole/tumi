@@ -45,6 +45,7 @@
   div.gallery img {
     width: 100%;
     height: auto;
+    transition: width 2s, height 4s;
   }
   
   div.desc {
