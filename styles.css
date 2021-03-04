@@ -108,5 +108,17 @@
     body {
       color: red;
     }
+    
   }
 
+  @media (orientation: landscape) {
+    body {
+      color: rgb(43, 60, 219);
+    }
+  }
+
+  @media (orientation: portrait)  {
+    body {
+      color:aqua
+    }
+  }
