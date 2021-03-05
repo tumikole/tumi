@@ -20,28 +20,33 @@
 
  
   h1 {
-    color: rgb(54, 48, 48);
+    color: white;
     text-align: center;
     text-shadow: 2px 2px red;
 
   }
 
   h2 {
-    color: rgb(54, 48, 48);
+    color: white;
     text-align: center;
     color: white;
     text-shadow: 2px 2px 4px #000000;
 
   }
 
+  h3 {
+    color: white;
+  }
+
+  
   body {
-    background-color: aquamarine;
+    background-color: rgb(64, 82, 76);
   }
 
 
   #body2 
 {
-  background-color: limegreen;
+  background-color: rgb(63, 153, 160);
 }
 img {
   display: block;
@@ -56,7 +61,7 @@ img {
 }
 
    img:hover  {
-    box-shadow: 0 0 15px 10px rgba(57, 102, 117, 0.5);
+    box-shadow: 0 0 15px 10px rgba(221, 149, 14, 0.5);
    }
 
 
@@ -65,14 +70,14 @@ img {
     grid-template-columns: auto auto;
   }
 
- /*.gallery-item {
+ .gallery-item {
       display: grid;
       grid-template-columns: auto auto;
       grid-gap: 5px;
       padding: 10px;
       width: 100%;
       height: auto;
-    }*/
+    }
 
   .fa {
     padding: 20px;
@@ -86,25 +91,24 @@ img {
     opacity: 0.7;
   }
 
- /* .fa-facebook {
-    background: #3B5998;
-    color: white;
+  .fa-facebook {
+    color: rgb(8, 130, 245);
   }
   
 
  .fa-whatsapp {
-    background:rgb(50, 192, 50);
-    color: white;
+   
+    color: rgb(32, 212, 56);
   }
+
   .fa-instagram {
-    background: #db1ccb;
-    color: white;
+    color: rgb(197, 20, 233);
   }
+
   .fa-twitter {
-    background:rgb(0, 183, 255);
-    color: white;
+    color: rgb(17, 186, 238);
   }
-*/
+
 
  
 
@@ -124,6 +128,7 @@ img {
 .container {
   padding: 2px 16px;
 }
+
 
 
 
@@ -181,10 +186,4 @@ img {
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-}
-
-@media screen and (max-width: 600px) {
-  .links {
-     display: block;
-  }
 }
