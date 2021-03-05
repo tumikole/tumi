@@ -1,3 +1,6 @@
+
+
+
 .topnav {
     background-color: rgb(43, 93, 102);
     overflow: hidden;
@@ -40,7 +43,7 @@
 
   
   body {
-    background-color: rgb(64, 82, 76);
+    background-color: rgb(63, 153, 160);
   }
 
 
@@ -86,7 +89,7 @@ img {
     width: 15px;
     height: 15px;
   }
-
+/* 
   .fa:hover {
     opacity: 0.7;
   }
@@ -107,7 +110,7 @@ img {
 
   .fa-twitter {
     color: rgb(17, 186, 238);
-  }
+  } */
 
 
  
