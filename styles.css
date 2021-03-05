@@ -25,15 +25,16 @@
   h1 {
     color: white;
     text-align: center;
-    text-shadow: 2px 2px red;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
 
   }
 
   h2 {
     color: white;
     text-align: center;
-    color: white;
-    text-shadow: 2px 2px 4px #000000;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
 
   }
 
@@ -42,15 +43,16 @@
   }
 
   
-  body {
-    background-color: rgb(63, 153, 160);
+   body {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   }
 
-
+/* 
   #body2 
 {
-  background-color: rgb(63, 153, 160);
-}
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+} */
+
 img {
   display: block;
   margin-left: auto;
@@ -132,6 +134,15 @@ img {
   padding: 2px 16px;
 }
 
+.footer {
+  position:none;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
 
 
 
