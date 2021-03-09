@@ -13,14 +13,34 @@
   
 
     
-  <div class="topnav">
-    <a class="active" href="home.html"><i class="fa fa-fw fa-home"></i> Home</a> 
-     <!-- <a href="https://tumikole.github.io/tumi/blog.html"><i class="fa fa-info-circle" aria-hidden="true"></i>Blog post</a>     -->
-        <a href="about.html"><i class="fa fa-fw fa-user"></i> About</a>
-
-</div>
-
+ <body>
+  <div id="myNav" class="overlay">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="overlay-content">
+      <a href="index.html">Home</a>
+      <!-- <a href="gallery.html">Gallery</a> -->
+      <a href="about.html">About</a>
+    </div>
+  </div>
+  
+ 
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+  
+  <script>
+  function openNav() {
+    document.getElementById("myNav").style.display = "block";
+  }
+  
+  function closeNav() {
+    document.getElementById("myNav").style.display = "none";
+  }
+  </script>
+<div>
 <h1>Gallery</h1>
+<h2>fgdnkdfngdlkgdfng</h2>
+<p>gfdjgdjgdjgdiggjgidg</p>
+</div>
+<br>
 
 <div class="row">
   <div class="column">
@@ -53,19 +73,17 @@
 <footer class="footer">
 
   <div class="navbar">
-    <a href="https://www.facebook.com/" class="fa fa-facebook" aria-hidden="true"></i>
-      <a href="https://www.twitter.com/" class="fa fa-twitter-square" aria-hidden="true"></i>
-      <a href="https://www.whatsapp.com/" class="fa fa-whatsapp" aria-hidden="true"></i>
-      <a href="https://www.instagram.com/" class="fa fa-instagram" aria-hidden="true"></i>
-        <a href="https://tumikole.github.io/tumi/blog.html"><i class="fa fa-github" aria-hidden="true"></i>
-       <a href="tel:+27 81 263 8288"><i class="fa fa-phone" aria-hidden="true"></i>
-      <a href="https://mail.google.com/mail/u/0/#inbox"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-  
-          </div>
-  
-  
-  </footer>
+    <a href="https://www.facebook.com" class="fa fa-facebook" aria-hidden="true">
+      <a href="https://www.twitter.com" class="fa fa-twitter-square" aria-hidden="true">
+      <a href="https://www.whatsapp.com" class="fa fa-whatsapp" aria-hidden="true">
+      <a href="https://www.instagram.com" class="fa fa-instagram" aria-hidden="true">
+        <a href="https://tumikole.github.io/tumi/blog.html" class="fa fa-github" aria-hidden="true">
+       <a href="tel:+27 81 263 8288" class="fa fa-phone" aria-hidden="true">
+      <a href="https://mail.google.com" class="fa fa-envelope-o" aria-hidden="true">
 
+      </div>
+
+</footer>
 </body>
 
 
