@@ -1,7 +1,7 @@
 ---
 Layout:
-Title: ""Learning while loop
-Date: "2021-03-09zzzzzzzzzzzz"
+Title: "Learning while loop"
+Date: "2021-03-09"
 ---
 
 # While Loops
