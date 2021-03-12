@@ -12,4 +12,4 @@ The most difficult thing i came across today was how to style or position my hea
 
 ## Freecodecamp
 
-I didnt get to freecodecamp due to the fact that i was busy and struggling with the webpage.
+I didnt get to do freecodecamp due to the fact that i was busy and struggling with the webpage.
