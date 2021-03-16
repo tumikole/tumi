@@ -28,6 +28,6 @@ To prevent an infinite loop, the while-condition must reach a terminal condition
 ###### Check For The Presence of an Element With indexOf()
 ###### Iterate Through All an Array's Items Using For Loops
 
-Most of todays time i spended on Basic Data Structure Coourse. Describes
+Most of todays time i spended on Basic Data Structure Coourse.
 
 Basic Data Structures courses has been hard for me to understand it. I went Through this course all over and all again but it was difficult for me to understand it. But i will keep on practicing until i get it right.
