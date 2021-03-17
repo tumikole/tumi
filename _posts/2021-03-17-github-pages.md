@@ -9,14 +9,12 @@ Date: "2021-03-17"
 -You create repository.
 -Make sure your repository matches exactly your username, otherwise it wont work.
 -Open Terminal by pressing keyboard shotcuts (Ctrl+Alt+T)
--Therefore you clone your repository.
+-Therefore you clone your repository to your local host/matchine.
 -Enter the project folder and add an index.html file.
 -git status
 -git Add
 -git commit
 -git push for changes you've made.
-
--
 
 #### git status
 
