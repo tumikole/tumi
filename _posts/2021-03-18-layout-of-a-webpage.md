@@ -20,3 +20,5 @@ To get started you have to define a container element as a grid with display: gr
 
 CSS flexbox layout allows you to easily format HTML. Flexbox makes it simple to align items vertically and horizontally using rows and columns. Items will "flex" to different sizes to fill the space. It makes responsive design easier.
 flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities.
+
+#### Today didnt get to do freecodecamp because we were writing a test and aswell as the project that was given to us.
