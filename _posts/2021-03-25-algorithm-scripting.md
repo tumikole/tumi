@@ -1,6 +1,6 @@
 ---
 Layout:
-Title: ""
+Title: "Algorithm scripting and Code wars"
 Date: "2021-03-25"
 ---
 # Freecodecamp
