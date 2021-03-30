@@ -17,11 +17,4 @@ The length property of an object which is an instance of type Array sets or retu
 Strings are immutable, which means they cannot be altered once they are created.
 You cannot change the single character but can change string by assigning them to a new string
 
-### Using Bracket notation.
-
-#### TO find the nth character.
-
-
-
-
 #### Doing my research on google and other search platforms to get better understanding.
