@@ -14,3 +14,11 @@ A local variable, however, has a limited scope: it exists only within the block 
 Local variables must be explicitly declared, either as parameters to a script function (here), or with the LOCAL statement (here). They are used to clearly pass parameters to functions, or as temporary "scratch space" for a function without the side effects of global variable modification.
 
 A local variable with the same name as another in-scope variable will have precedence over the outer variable.
+
+## Global Scope
+
+global scope is the scope that contains, and is visible in, all other scopes. In client-side JavaScript, the global scope is generally the web page inside which all the code is being executed.
+
+## Local scope
+
+is a characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).
