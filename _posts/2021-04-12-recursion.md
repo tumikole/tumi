@@ -6,7 +6,7 @@ Date: "2021-04-12"
 
 ## Steps for Converting Iterative Code to Recursive
 
-Identify the main loop
+Identify the main loop.
 Use the loop condition as the base case and the body of the loop as the recursive case.
 The local variables in the iterative version turn into parameters in the recursive version.
 Compile and rerun tests.
