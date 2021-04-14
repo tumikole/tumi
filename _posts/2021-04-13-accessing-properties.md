@@ -20,5 +20,3 @@ var f = "f";
 
 object[f + "oo"] = "bar";
 
-## record collection
-
