@@ -10,8 +10,8 @@ Are way of classifying programming language according to the style of computer p
 
 ### Functional Programming
 
-- Is a coding style (how you write your code or organising your code).
-- Is kind of a mindset you can get into (a way of thinking about a problem or approaching a task). 
+ Is a coding style (how you write your code or organising your code).
+ Is kind of a mindset you can get into (a way of thinking about a problem or approaching a task). 
 
 #### Advantages
 
