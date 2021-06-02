@@ -1,7 +1,7 @@
 ---
 Layout:
-Title: ""
-Date: "2021-06-01"
+Title: "Return Part of an Array Using the slice Method"
+Date: "2021-05-26"
 ---
 
 ## Return Part of an Array Using the slice Method

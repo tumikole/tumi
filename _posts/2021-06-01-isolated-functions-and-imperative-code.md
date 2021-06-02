@@ -1,6 +1,10 @@
+---
+Layout:
+Title: "Isolated functions and Imperative Code"
+Date: "2021-06-01"
+---
 
-
-Isolated functions
+## Isolated functions
 
 An isolated function is a function within which specific rules apply when accessing mutable state. An isolated function can access mutable state that is passed as a parameter.
 
@@ -8,7 +12,7 @@ pure function with example?
 
 A function is called pure function if it always returns the same result for same argument values and it has no side effects like modifying an argument (or global variable) or outputting something. ... Examples of pure functions are strlen(), pow(), sqrt() etc.
 
-Imperative Code
+## Imperative Code
 
 is used to give commands. Similarly, an imperative style in programming is one that gives the computer a set of statements to perform a task.
 
