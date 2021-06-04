@@ -1,131 +1,79 @@
-.dropbtn {
-  background-color: red;
-  color: black;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: red;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {background-color:yellow;}
-
-.dropdown:hover .dropdown-content {display: block;}
-
-.dropdown:hover .dropbtn {background-color:yellow;}
-
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-image: linear-gradient(red, yellow);
-  color: white;
-  text-align: center;
-}
-
-h1 {
-  color: red;
-  text-align: center;
-  font-family: "Times New Roman", Times, serif;
-}
-
-h2 {
-  color: red;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-
-h3 {
-  color: red;
-  text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-body {
-  background-color: #f1f1f1;
-  padding: 20px;
-  font-family: Arial;
-}
-
-Center website
-.main {
-  max-width: 1000px;
-  margin: auto;
-}
-
-h1 {
-  font-size: 50px;
-  word-break: break-all;
-}
-
-.row {
-  margin: 8px -16px;
-}
-
-.row,
-.row > .column {
-  padding: 8px;
-}
-
-.column {
-  float: left;
-  width: 25%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.content {
-  background-color: white;
-  padding: 10px;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-  .column {
-    width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
+        body {
+            background-image: url("https://images.squarespace-cdn.com/content/v1/53a05cdee4b0c1bc44841a7b/1523903901526-NQ7YBY0J1P6Q3QTDQ99I/ke17ZwdGBToddI8pDm48kDrhhyvDpE5wTivfWmeXbClZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwwgbrhBcqQvfweMHrFmLaAUNk-IumIXddVge6uKYx3SzjeTwXZX8Qna9Y4VPhkto/25+Travel+Cinemagraphs+from+Around+the+World");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+        }
+        
+        h1 {
+            font-size: 18px;
+        }
+        
+        h4 {
+            font-size: 15px;
+        }
+        
+        p {
+            font-size: 10px;
+        }
+        
+        div.ex3 {
+            width: 100%;
+            height: 10%;
+            overflow: auto;
+        }
+        
+        .img_main {
+            text-align: center;
+            width: 50%;
+            padding: 3px;
+            margin: auto;
+            border: 3px solid rgb(170, 61, 61);
+            border-radius: 100%;
+        }
+        
+        .link_img {
+            margin: 3px;
+            padding: 2px;
+            height: 1rem;
+        }
+        
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 50%;
+            margin: auto;
+        }
+        
+        .input_ghPages {
+            width: 40%;
+            padding: 4px 4px;
+            border-radius: 3px solid black;
+        }
+        
+        #addRow {
+            width: 10%;
+            margin: auto;
+        }
+        
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
