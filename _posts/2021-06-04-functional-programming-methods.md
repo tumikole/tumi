@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Functional Programming: Methods"
-Date: "2021-06-03"
+Date: "2021-06-04"
 ---
 
 ## every() method
