@@ -22,18 +22,11 @@ Containers are the most basic layout element in Bootstrap and are required when 
 
 Our default .container class is a responsive, fixed-width container, meaning its max-width changes at each breakpoint
 
-ex:
-<div class="container">
-</div>
-
 ### Responsive containers
 
 Responsive containers allow you to specify a class that is 100% wide until the specified breakpoint is reached, after which we apply max-widths for each of the higher breakpoints.
 
-ex:
-<div class="container-sm">100% wide until small breakpoint</div>
 
 ### Fluid containers
 
-<div class="container-fluid">
-</div>
+container-fluid class provides a full-width container which spans the entire width of the viewport.
