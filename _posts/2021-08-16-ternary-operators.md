@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Ternary Operator"
-Date: "2021-08-13"
+Date: "2021-08-16"
 ---
 
 ## What are ternary operators in React?

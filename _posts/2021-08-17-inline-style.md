@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Inline Style"
-Date: "2021-08-14"
+Date: "2021-08-17"
 ---
 ## How do you apply inline style?
 
