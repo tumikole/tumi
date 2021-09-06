@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "React Redux Provider"
-Date: "2021-08-30"
+Date: "2021-08-31"
 ---
 
 The <Provider> component makes the Redux store available to any nested components that need to access the Redux store. Since any React component in a React Redux app can be connected to the store, most applications will render a <Provider> at the top level, with the entire app's component tree inside of it.

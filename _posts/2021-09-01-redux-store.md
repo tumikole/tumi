@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Redux store"
-Date: "2021-08-30"
+Date: "2021-09-01"
 ---
 
 # Introduction
