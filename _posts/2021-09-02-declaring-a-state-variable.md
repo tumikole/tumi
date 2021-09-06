@@ -1,8 +1,14 @@
 ---
 Layout:
-Title: "Redux store"
+Title: "Declaring state in React"
 Date: "2021-09-02"
 ---
+
+## How do you declare a state in React?
+
+We import the useState Hook from React. It lets us keep local state in a function component.
+Inside the component, we declare a new state variable by calling the useState Hook. It returns a pair of values, to which we give names.
+When the user clicks, we call setExample with a new value.
 
 In a class, we initialize the state by setting this.state in the constructor.
 
