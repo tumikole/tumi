@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "The caret character in parkage.json"
-Date: "2021-09-21"
+Date: "2021-09-22"
 ---
 ## The caret character in package.json
 

@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "How do I remove a dependency from a package"
-Date: "2021-09-20"
+Date: "2021-09-23"
 ---
 
 ## How do I remove a dependency from a package?
